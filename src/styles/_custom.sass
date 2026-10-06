@@ -1,109 +1,305 @@
-@use 'variables' as *
 .banner-principal-decorativo
   &-1
+    animation: float1 3.5s ease-in-out infinite alternate
+    position: absolute
+    top: 62%
+    right: 73%
+  &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 68%
-    left: -10%
-    width: 20%
-  &-2
+    top: 28%
+    right: 26%
+  &-3
     animation: float1 2.5s ease-in-out infinite alternate
     position: absolute
-    top: 30%
-    right: 10%
-    width: 20%
-
+    top: 43%
+    right: 11%
+  &-4
+    animation: float1 3s ease-in-out infinite alternate
+    position: absolute
+    top: 15%
+    right: 70%
 
 @keyframes float1
   0%
     transform: translateY(20px)
-
   100%
     transform: translateY(0px)
-
+  
 ///////////CUSTOM BANNER PRINCIPAL E INTERNO/////////////
 .banner-principal .tarjeta
   background-position: left 50% !important
 
 .titulo-principal.color-acento-contenido .titulo-principal__numero span
-  color: $color-sistema-texto !important
+  color: white !important
 
 .banner-interno__titulo__icono i
   color: $color-primario
 
-figcaption, table caption
+figcaption
   font-weight: normal
 
 .banner-principal__row .banner-principal__img
-  width: 500px !important
+  width: 600px !important
   @media screen and (max-width: $bp-max-xl)
     width: 400px !important
 
+.titulo-principal.color-acento-contenido .titulo-principal__numero span
+  color: $color-sistema-texto !important
 .banner-interno__fondo
   background-image: url("../assets/curso/banner_interno.png") !important
-  background-color: $color-primario !important
 .banner-principal .tarjeta
   @media screen and (max-width: $bp-max-md)
     background-image: url("../assets/curso/portada/fondo-banner-principal-sm.png") !important
-  @media screen and (max-width: $bp-max-xs)
+  @media screen and (max-width: $bp-max-sm)
     background-image: url("../assets/curso/portada/fondo-banner-principal-xs.png") !important
+  
+//////////Background_Color///////////
+.bg-color
+  &-1
+    background-color: #C2D0F8 !important
+  &-2
+    background-color: #DEEAFF
+  &-3
+    background-color: #F0F3FD !important
+  &-4
+    color: #F4B400 !important
+  &-5
+    background-color: #E9ECF2
+  &-6
+    background-color: #FFF9E2 !important
+  &-7
+    background-color: #E2E7F7
+  &-8
+    background-color: #F1F6F9
+  &-9
+    background-color: #FCEDF9 !important
+  &-10
+    background-color: #FFECB1
+  &-11
+    background-color: #DFE0E2
+  &-12
+    background-color: #D6E1FF
+  &-13
+    background-color: #EAF0FA
+  &-14
+    background-color: #E1E7FB
+  &-15
+    background-color: #FCEDF8
+  &-16
+    background-color: #F1F3FB
+  &-17
+    background-color: #F3F9FF
+  &-18
+    color: #678AEE !important
+  &-19
+    background-color: #FFF1C9 !important
+  &-20
+    background-color: #EBF7FF
+  &-21
+    background-color: #FDF0CC
+  &-22
+    background-color: #F1F6FF
+  &-23
+    background-color: #E0E8FC
+  &-24
+    background-color: #CEDAF8
+  &-25
+    background-color: #EEF2FD
+  &-white
+    background-color: white !important
+    border: 1px solid $lightest-gray
+  &-secundario
+    background-color: $color-secundario !important
+  &-sintesis
+    background-color: #F6F6F6
 
-.text-end 
-    text-align: left !important
-
-/**************************************************************/
-/***CUSTOM STYLES***/
-/**************************************************************/
-.p-full-width
-  padding: 3rem 3.5rem!important;
+///////Full Width Background///////////////////
 .bg-full-width
   background-size: cover
   background-repeat: no-repeat
   background-position: bottom
   margin-inline: -3.3rem
+  @media screen and (max-width: $bp-max-sm)
+    padding-left: 1.5rem
+    padding-right: 1.5rem
+.bg-full-width-2
+  background-size: contain
+  background-repeat: no-repeat
+  background-position: bottom
+  margin-inline: -3.3rem
+  @media screen and (max-width: $bp-max-sm)
+    padding-left: 1.5rem
+    padding-right: 1.5rem
+
+///////////////fondos/////////////////
 .bg-fondo
   &-1
-    //background-image: url(../assets/curso/bg/3.svg)
-.bg-color
+    background-image: url("../assets/curso/bg1.png") !important
+    background-position: top
+  &-2
+    background-image: url("../assets/curso/bg2.png") !important
+    background-position: bottom
+  &-slider
+    //background-image: url("../assets/bg/bg-slider.png") !important
+    background-position: bottom
+
+/////////IMG_100%_CAJON_MEDIO/////////
+.pst
+  position: relative
+  z-index: 2
+.banner-text
+  background-color: #EEF2FD
+  border-radius: 10px
+  padding: 20px 30px
+  margin-top: -60px
+  @media screen and (max-width: $bp-max-sm)
+    margin-top: -10px
+  
+//////////////CUSTOM AVATAR-LEFT//////////////
+.tarjeta-avatar-b__img
+  min-width: 25%
+  @media screen and ( max-width: $bp-max-sm )
+    min-width: auto
+.tarjeta--azul 
+  background-color: #F0F3FD
+  border: 3px solid #678AEE
+
+//////////////posicion img avatar//////////
+.pst
+  top: 0
+  right: 0
   &-1
-    background-color: $color-primario
+    top: -25px
+    left: -25px
+    @media screen and ( max-width: $bp-max-xs )
+      top: -25px
+      left: 80%
 
+.bloque-texto-b.color-secundario:before 
+  background-color: #EEF2FD
 
+/////////////ACORDION/////////////
+.acordion__accion__btn--a
+  background-color: #FFD256 !important
+  color: $color-sistema-texto
+.acordion__activo
+  background-color: #F4F5F6 !important
+.acordion_titulo
+  color: #fff !important
+.acordion__titulo 
+  h3
+    color: $color-sistema-texto  !important
+.acordion__activo
+  .acordion__titulo 
+    h3
+      color: $color-sistema-texto !important
+    
+.img-infografica__card
+  width: auto
 
+/////////CUSTOM TABS-C//////////
+.tabs-c__header 
+  margin-bottom: 0
+.tabs-c__content-item
+  background-color: #F7F7F7
 
+////////SOMBRA CAJON//////////
+.box-shadow
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); /* Sombra suave */
+  padding: 20px;
 
-
-
-/**************************************************************/
-/*Media Queries*/  
-/**************************************************************/
-
-//// DESKTOP SMALL 1400--------------------------------------
-@media screen and (max-width: $bp-min-xxl)
-  .mb-cus
-    margin-bottom: 2em  !important 
-
-//// TABLET 992--------------------------------------
-@media screen and (max-width: $bp-max-md)
-  .mb-cus
-    margin-bottom: 2em  !important  
-  .col-lg-7.col-xxl-5.ps-4.ps-sm-5.py-4.py-sm-5.banner-principal__info
-    width: 90% !important
-
+//////////CUSTOM BOTONES SLYDER-F/////////
+.slyder-f__btn
+  height: 35px
+  width: 35px
+  max-width: 35px
+  background-color: $color-acento-botones
+  border-radius: 50%
+  padding: 0 !important
+  margin: 0 auto
+  .fa-chevron-left
+    font-size: 20px
+  .fa-chevron-right
+    font-size: 20px
   
- 
-  
-//// TABLET MINI 768--------------------------------------
-@media screen and (max-width: $bp-min-md)
-  .mb-cus
-    margin-bottom: 2em  !important  
+.slyder-f
+    align-items: center
 
-  
+    .slyder-f__main
+      width: 70%
 
-//// MOBILE 576--------------------------------------
-@media screen and (max-width: $bp-min-sm)
-  .mb-cus
-    margin-bottom: 2em  !important
+      @media (min-width: 769px)
+        width: 80%
 
-  
- 
+//////////////CUSTOM TABS-A/////////////
+.tabs-a.color-acento-botones .tabs-a__tab__selected 
+  background-color: #FFD256
+  color: $color-sistema-texto
+.tabs-a__tab
+  background-color: #F1F6FF
+.tarjeta.color-acento-botones--borde
+  background-color: #E2E7F7
+  border: solid 4px #E2E7F7
+
+////////////AJUSTE TAMAÑO CONTERNEDOR IZQUIERO TABS-A//////////
+.tabs-a
+  @media (min-width: 1200px) 
+    .row
+      .col-xl-3 
+        flex: 0 0 auto
+        width: 38%
+      .col-xl-9
+        flex: 0 0 auto
+        width: 62%
+  @media (min-width: 992px) 
+    .row
+      .col-lg-4 
+        flex: 0 0 auto
+        width: 41%
+      .col-lg-8 
+        flex: 0 0 auto
+        width: 59%
+
+///////////////CUSTOM LINEA TIEMPO C//////////
+.linea-tiempo-c__header__btn--right, .linea-tiempo-c__header__btn--left 
+  background-color: #F4B400
+.tiempo-c__header__item__line-container:after, .linea-tiempo-c__header__item--before .linea-tiempo-c__header__item__line-container:after, .linea-tiempo-c.color-acento-contenido .linea-tiempo-c__header__item--before .linea-tiempo-c__header__item__line-container:before, 
+.linea-tiempo-c.color-acento-contenido .linea-tiempo-c__header__item--active .linea-tiempo-c__header__item__line-container:before, .linea-tiempo-c.color-acento-contenido .linea-tiempo-c__header__item--active .linea-tiempo-c__header__item__dot:after 
+  background-color: #678AEE !important
+.linea-tiempo-c.color-acento-contenido .linea-tiempo-c__header__item--before .linea-tiempo-c__header__item__dot, .linea-tiempo-c.color-acento-contenido .linea-tiempo-c__header__item--active .linea-tiempo-c__header__item__dot
+  border-color: #678AEE
+
+//CLASES TITULOS//
+.titulo-con-imagen
+  display: flex
+  align-items: center
+  position: relative
+.titulo-con-imagen__fondo
+  background-color: #EAE7F0
+  border-radius: 20px
+  padding: 10px 20px
+  display: inline-flex
+  align-items: center
+.titulo-con-imagen__imagen
+  position: absolute
+  left: 0px
+  width: 70px
+.titulo-con-imagen__texto
+  margin: 0
+  padding-left: 60px
+
+/////////CUSTOM TABS-B///////////////
+.tabs-b__content-item, .tabs-b__tab.tabs-b__tab--active
+  background-color: #F4F5F6
+.tabs-b__tab
+  background-color: #F1F6FF
+
+///////////////TABLAS///////////////////
+.tbl 
+  table td
+    text-align: start !important
+  th, td, table thead th, .tabla-a th 
+    border: 2px solid #B5B5B5
+  table
+    table-layout: auto
