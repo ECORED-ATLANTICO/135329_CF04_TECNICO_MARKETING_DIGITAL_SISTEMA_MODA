@@ -76,7 +76,7 @@
             p.mb-0 El cliente representa el papel más importante en el tema de la calidad, pues es quien demanda de la empresa los bienes y servicios que necesita y luego es quien valora los resultados
             i.fas.fa-quote-right
           .bloque-texto-d__autor 
-            .h5.mb-0   (Según Pérez, 2016)
+            .h5.mb-0   (Según Pérez, 2016).
     
     p Es decir que el cliente es un comprador viable o real de los productos o servicios de la empresa.
 

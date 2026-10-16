@@ -192,75 +192,79 @@ export default {
   referencias: [
     {
       referencia:
-        'Asamblea Nacional Constituyente. (1991). Constitución Política de Colombia, artículo 15. SUIN-Juriscol. ',
-      link: 'https://www.suin-juriscol.gov.co/viewDocument.asp?id=1687988',
-    },
-    {
-      referencia:
-        'Congreso de Colombia. (2008, 31 de diciembre). Ley Estatutaria 1266 de 2008. Por la cual se dictan las disposiciones generales del hábeas data y se regula el manejo de la información contenida en bases de datos personales. SUIN-Juriscol. ',
-      link: 'https://www.suin-juriscol.gov.co/viewDocument.asp?id=1676616',
-    },
-    {
-      referencia:
-        'Congreso de Colombia. (2012, 17 de octubre). Ley 1581 de 2012. Por la cual se dictan disposiciones generales para la protección de datos personales. SUIN-Juriscol. ',
-      link: 'https://www.suin-juriscol.gov.co/viewDocument.asp?id=1684507',
-    },
-    {
-      referencia:
-        'Congreso de Colombia. (2021, 29 de octubre). Ley 2157 de 2021. Por medio de la cual se modifica y adiciona la Ley Estatutaria 1266 de 2008. SUIN-Juriscol. ',
-      link: 'https://www.suin-juriscol.gov.co/viewDocument.asp?id=30042420',
-    },
-    {
-      referencia:
-        'Congreso de Colombia. (2023, 10 de julio). Ley 2300 de 2023. Por medio de la cual se establecen medidas que protejan el derecho a la intimidad de los consumidores. SUIN-Juriscol. ',
-      link: 'https://www.suin-juriscol.gov.co/viewDocument.asp?id=30046853',
-    },
-    {
-      referencia:
-        'Deming, W. E. (2009). Calidad, productividad y competitividad: la salida de la crisis. Ediciones Diaz de Santos.',
-    },
-    {
-      referencia:
-        'Ley 1266 de 2008. Por la cual se dictan las disposiciones generales del hábeas data y se regula el manejo de la información contenida en bases de datos personales, en especial la financiera, crediticia, comercial, de servicios y la proveniente de terceros países y se dictan otras disposiciones. Diciembre 31 de 2008.',
-    },
-    {
-      referencia:
-        'Maciá, F., y Gosende, J. (2011). Marketing con redes sociales. Anaya Multimedia.',
-    },
-    {
-      referencia:
-        'Macone, C. F. (2017). Programa para el mejoramiento de la calidad de atención al usuario en el Laboratorio de la Clínica DR. A. L. Briceño Rossi. [Trabajo especial de grado, Universidad Católica Andrés Bello]. Repositorio Institucional UCAB.',
+        'Asamblea Nacional Constituyente. (1991). Constitución Política de Colombia, artículo 15.',
       link:
-        'https://biblioteca2.ucab.edu.ve/anexos/biblioteca/marc/texto/AAU7630',
+        'http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html',
     },
     {
       referencia:
-        'Ministerio de Comercio, Industria y Turismo. (2013, 27 de junio). Decreto 1377 de 2013. Por el cual se reglamenta parcialmente la Ley 1581 de 2012 [Compilado en el Decreto 1074 de 2015]. SUIN-Juriscol.',
-      link: 'https://www.suin-juriscol.gov.co/viewDocument.asp?id=1276081',
+        'Congreso de Colombia. (2008, 31 de diciembre). Ley Estatutaria 1266 de 2008. Por la cual se dictan las disposiciones generales del hábeas data y se regula el manejo de la información contenida en bases de datos personales.',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=34488',
     },
     {
       referencia:
-        'Ministerio de Comercio, Industria y Turismo. (2015, 26 de mayo). Decreto 1074 de 2015. Por medio del cual se expide el Decreto Único Reglamentario del Sector Comercio, Industria y Turismo. SUIN-Juriscol.',
-      link: 'https://www.suin-juriscol.gov.co/viewDocument.asp?id=30019935',
+        'Congreso de Colombia. (2012, 17 de octubre). Ley 1581 de 2012. Por la cual se dictan disposiciones generales para la protección de datos personales.',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=49981',
     },
     {
       referencia:
-        'Montoya Agudelo, C. A., y Boyero Saavedra, M. R. (2013). El CRM como herramienta para el servicio al cliente en la organización. Revista Científica Visión de Futuro, 17(1), 130-151.',
-      link: 'https://www.redalyc.org/articulo.oa?id=357935480005',
+        'Congreso de Colombia. (2021, 29 de octubre). Ley 2157 de 2021. Por medio de la cual se modifica y adiciona la Ley Estatutaria 1266 de 2008.',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=34488',
     },
     {
       referencia:
-        'Mora Contreras, C. E. (2011). La calidad del servicio y la satisfacción del consumidor. Revista Brasileira de Marketing, 10(2), 146-162.',
-      link: 'https://doi.org/10.5585/remark.v10i2.2212',
+        'Congreso de Colombia. (2023, 10 de julio). Ley 2300 de 2023. Por medio de la cual se establecen medidas que protejan el derecho a la intimidad de los consumidores.',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=213990',
     },
     {
       referencia:
-        'Pérez Torres, V. C. (2016). Calidad total en la atención al cliente: Pautas para garantizar la excelencia en el servicio. Ideaspropias Editorial. ',
+        'Deming, W. E. (2009). Calidad, productividad y competitividad: La salida de la crisis. Ediciones Díaz de Santos.',
       link: '',
     },
     {
       referencia:
-        'Pincay Moreno, Y. M., y Parra Ferié, C. (2020). Gestión de la calidad en el servicio al cliente de las PYMES comercializadoras: Una mirada en Ecuador. Dominio de las Ciencias, 6(3), 1118-1142.',
+        'Maciá, F., y Gosende, J. (2011). <em>Marketing</em> con redes sociales. Anaya Multimedia.',
+      link: '',
+    },
+    {
+      referencia:
+        'Macone Macone, C. F. (2017). Programa para el mejoramiento de la calidad de atención al usuario en el laboratorio de la Clínica Dr. A. L. Briceño Rossi [Trabajo especial de grado, Universidad Católica Andrés Bello]. Repositorio Institucional UCAB.',
+      link: '',
+    },
+    {
+      referencia:
+        'Ministerio de Comercio, Industria y Turismo. (2013, 27 de junio). Decreto 1377 de 2013. Por el cual se reglamenta parcialmente la Ley 1581 de 2012 [Compilado en el Decreto 1074 de 2015].',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=49981',
+    },
+    {
+      referencia:
+        'Ministerio de Comercio, Industria y Turismo. (2015, 26 de mayo). Decreto 1074 de 2015. Por medio del cual se expide el Decreto Único Reglamentario del Sector Comercio, Industria y Turismo.',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=76608',
+    },
+    {
+      referencia:
+        'Montoya Agudelo, C. A., y Boyero Saavedra, M. R. (2013). El CRM como herramienta para el servicio al cliente en la organización. Revista Científica Visión de Futuro, 17(1), 130–151.',
+      link: 'https://www.redalyc.org/articulo.oa?id=357935480005',
+    },
+    {
+      referencia:
+        'Mora Contreras, C. E. (2011). La calidad del servicio y la satisfacción del consumidor. Revista Brasileira de Marketing, 10(2), 146–162.',
+      link: 'https://doi.org/10.5585/remark.v10i2.2212',
+    },
+    {
+      referencia:
+        'Pérez Torres, V. C. (2016). Calidad total en la atención al cliente: Pautas para garantizar la excelencia en el servicio. Ideaspropias Editorial.',
+      link: '',
+    },
+    {
+      referencia:
+        'Pincay Moreno, Y. M., y Parra Ferié, C. (2020). Gestión de la calidad en el servicio al cliente de las PYMES comercializadoras: Una mirada en Ecuador. Dominio de las Ciencias, 6(3), 1118–1142.',
       link:
         'https://www.dominiodelasciencias.com/ojs/index.php/es/article/view/1341',
     },
@@ -271,12 +275,12 @@ export default {
     },
     {
       referencia:
-        'Thompson, I. (2009). Definición de cliente. Promonegocios.net',
+        'Thompson, I. (2009). Definición de cliente. Promonegocios.net.',
       link: 'https://www.promonegocios.net/clientes/cliente-definicion.html',
     },
     {
       referencia:
-        'Vera, J., y Trujillo, A. (2013). Factores relevantes de calidad en el servicio en el sector de concreto en el mercado de clientes pequeños y de hogar. Panorama Socioeconómico, 31(46), 14-28.',
+        'Vera, J., y Trujillo, A. (2013). Factores relevantes de calidad en el servicio en el sector de concreto en el mercado de clientes pequeños y de hogar. Panorama Socioeconómico, 31(46), 14–28.',
       link: 'https://www.redalyc.org/articulo.oa?id=39929212003',
     },
   ],

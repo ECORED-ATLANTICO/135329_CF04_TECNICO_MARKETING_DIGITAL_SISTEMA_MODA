@@ -38,7 +38,7 @@
                 p.mb-0 El concepto de calidad del servicio no posee una definición específica, puesto que es el consumidor quien determina qué es la calidad.
                 i.fas.fa-quote-right
               .bloque-texto-d__autor 
-                .h5.mb-0  Cobra (citado por Macone, 2017, p. 70)
+                .h5.mb-0  Cobra (citado por Macone, 2017, p. 70).
           .tarjeta.color-acento-botones--borde.p-4(titulo="Concepto 2")
             .bloque-texto-b.color-secundario.p-3(data-aos="fade-up")
               .bloque-texto-b__texto
@@ -46,7 +46,7 @@
                 p.mb-0 La calidad del servicio se considera como el medio de poder lograr la satisfacción del cliente, utilizando métodos innovadores que ayuden a complementar para brindar el servicio esperado por el cliente.
                 i.fas.fa-quote-right
               .bloque-texto-d__autor 
-                .h5.mb-0  (Según Pérez, 2016)
+                .h5.mb-0  (Pérez, 2016).
           .tarjeta.color-acento-botones--borde.p-4(titulo="Concepto 3")
             .bloque-texto-b.color-secundario.p-3(data-aos="fade-up")
               .bloque-texto-b__texto
@@ -54,7 +54,7 @@
                 p.mb-0 La calidad es una metodología sistemática, coherente y participativa, cuyo propósito es perfeccionar los procesos para mejorar las aptitudes y atributos de los productos o servicios, para maximizar la satisfacción de las necesidades y expectativas de los consumidores y usuarios.
                 i.fas.fa-quote-right
               .bloque-texto-d__autor 
-                .h5.mb-0  Medina (2009, p. 162)
+                .h5.mb-0  Medina (2009, p. 162).
           .tarjeta.color-acento-botones--borde.p-4(titulo="Concepto 4")
             .bloque-texto-b.color-secundario.p-3(data-aos="fade-up")
               .bloque-texto-b__texto
@@ -62,7 +62,7 @@
                 p.mb-0 Los atributos de la calidad en el servicio también se han establecido como antecedente de la lealtad hacia la marca.
                 i.fas.fa-quote-right
               .bloque-texto-d__autor 
-                .h5.mb-0  Vera y Trujillo (2016, p. 31)
+                .h5.mb-0  Vera y Trujillo (2016, p. 31).
     
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-4.order-2
@@ -101,29 +101,29 @@
                 th.bg-color-24 Modelos
             tbody
               tr
-                td 1984.
-                td Énfasis en la calidad Gronroos.
-                td Imagen corporativa. <br>Calidad técnica. <br>Calidad funcional.
+                td 1984
+                td Énfasis en la calidad Gronroos
+                td Imagen corporativa <br>Calidad técnica <br>Calidad funcional
               tr.bg-color-sintesis
-                td 1988.
-                td Énfasis en la fiabilidad Parasuraman, Zeithaml y Berry.
-                td Elementos tangibles. <br>Fiabilidad. <br>Respuesta oportuna. <br>Seguridad. <br>Empatía.
+                td 1988
+                td Énfasis en la fiabilidad Parasuraman, Zeithaml y Berry
+                td Elementos tangibles <br>Fiabilidad <br>Respuesta oportuna <br>Seguridad <br>Empatía
               tr
-                td 1994.
-                td Énfasis en los tres componentes Rust y Oliver.
-                td Características del servicio. <br>Entrega del servicio. <br>Ambientes de servicio.
+                td 1994
+                td Énfasis en los tres componentes Rust y Oliver
+                td Características del servicio <br>Entrega del servicio <br>Ambientes de servicio
               tr.bg-color-sintesis
-                td 2001.
-                td Énfasis en la interacción Brady y Cronin.
-                td Interacción cliente-empresa. <br>Ambiente de servicio. <br>Resultado.
+                td 2001
+                td Énfasis en la interacción Brady y Cronin
+                td Interacción cliente-empresa <br>Ambiente de servicio <br>Resultado
               tr
-                td 2012.
-                td Cordero, Astudillo, Carpio, Delgado y Amón.
-                td Solución al problema. <br>Empatía. <br>Entusiasmo.
+                td 2012
+                td Cordero, Astudillo, Carpio, Delgado y Amón
+                td Solución al problema <br>Empatía <br>Entusiasmo
               tr.bg-color-sintesis
-                td 2019.
+                td 2019
                 td Ganga, Alarcón y Pedraja.
-                td Confiabilidad. <br>Seguridad. <br>Empatía. <br>Experiencia.
+                td Confiabilidad <br>Seguridad <br>Empatía <br>Experiencia
 
 </template>
 
