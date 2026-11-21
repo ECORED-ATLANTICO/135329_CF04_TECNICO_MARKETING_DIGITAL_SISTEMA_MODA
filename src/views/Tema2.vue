@@ -122,7 +122,7 @@
                 td Solución al problema <br>Empatía <br>Entusiasmo
               tr.bg-color-sintesis
                 td 2019
-                td Ganga, Alarcón y Pedraja.
+                td Ganga, Alarcón y Pedraja
                 td Confiabilidad <br>Seguridad <br>Empatía <br>Experiencia
 
 </template>

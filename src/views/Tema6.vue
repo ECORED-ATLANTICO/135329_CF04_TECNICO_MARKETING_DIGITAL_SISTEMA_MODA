@@ -7,7 +7,7 @@
         span 6
       h1 Etiqueta empresarial
     
-    img(src="@/assets/curso/tema6/1.png", alt="Imagen decorativa")
+    img(src="@/assets/curso/tema6/1.png", alt="")
     
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-10(data-aos="fade-up")

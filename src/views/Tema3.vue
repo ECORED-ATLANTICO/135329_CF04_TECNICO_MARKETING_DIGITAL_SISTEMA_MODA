@@ -7,7 +7,7 @@
         span 3
       h1 Tipos de canales para el servicio al cliente en redes sociales
     
-    img(src="@/assets/curso/tema3/1.png", alt="Imagen decorativa")
+    img(src="@/assets/curso/tema3/1.png", alt="")
     
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-10(data-aos="fade-up")

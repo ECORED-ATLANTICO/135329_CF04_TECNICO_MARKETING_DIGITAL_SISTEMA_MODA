@@ -12,9 +12,7 @@
         .col-lg-auto.order-2
           img.d-none.d-lg-flex(src="@/assets/curso/tema5/1.png").mx-auto
         .col-lg.order-1.mb-3.mb-lg-0
-          p Los avances tecnológicos y el comercio electrónico han cambiado la interacción, atención y servicio al cliente, este escenario digital promueve una interacción inmediata a través de portales, sitios web o redes sociales, lo cual genera un proceso. Una vez revise el siguiente recurso educativo tendrá la capacidad de describir el paso a paso de un proceso de servicio al cliente en las redes sociales.
-
-          p.mb-0 ¡Adelante!
+          p Los avances tecnológicos y el comercio electrónico han cambiado la interacción, atención y servicio al cliente, este escenario digital promueve una interacción inmediata a través de portales, sitios web o redes sociales, lo cual genera un proceso. A continuación, se describe el paso a paso de un proceso de servicio al cliente en las redes sociales.
     
     .bg-full-width.bg-fondo-2
       .p-4.p-lg-5

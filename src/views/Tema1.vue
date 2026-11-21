@@ -7,7 +7,7 @@
         span 1
       h1 Fundamentos del servicio al cliente
     
-    img(src="@/assets/curso/tema1/1.png", alt="Imagen decorativa")
+    img(src="@/assets/curso/tema1/1.png", alt="")
     
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-10(data-aos="fade-up")
@@ -59,7 +59,7 @@
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 1.1 Definición de cliente
     
-    img(src="@/assets/curso/tema1/7.png", alt="Imagen decorativa")
+    img(src="@/assets/curso/tema1/7.png", alt="")
     
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-10(data-aos="fade-up")
@@ -98,7 +98,7 @@
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 1.2 Tipos de cliente
     
-    img(src="@/assets/curso/tema1/10.png", alt="Imagen decorativa")
+    img(src="@/assets/curso/tema1/10.png", alt="")
     
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-10(data-aos="fade-up")
