@@ -470,7 +470,7 @@ export default {
               id: 'a',
               texto:
                 'Una interacción donde el cliente forma percepciones del servicio.',
-              esCorrecta: false,
+              esCorrecta: true,
             },
             {
               id: 'b',
@@ -482,7 +482,7 @@ export default {
               id: 'c',
               texto:
                 'Una actividad administrativa sin contacto con los consumidores.',
-              esCorrecta: true,
+              esCorrecta: false,
             },
             {
               id: 'd',
